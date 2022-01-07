@@ -1,2 +1,4 @@
 *.csv
 dashboard_tests.ipynb
+/plots/test.jpg
+/plots/test.svg
